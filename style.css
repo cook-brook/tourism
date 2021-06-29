@@ -109,3 +109,7 @@ input
     height: 250px;
     width: 250px;
 }
+.vel{
+    font-size: 25px;
+    color: grey;
+}
